@@ -11,6 +11,7 @@ Engineering Lead
 * *If the team is doing big upfront architecture rather than working out how to break features into vertical slices that add value, it’s on the EL*
 * *If the quality of the code the team is putting out isn’t good (lots of defects, low test coverage) or UX performance is slow, it’s on the EL*
 * *If the team doesn’t have good engineering practices (like CI & unit tests), it’s on the EL*
+* *If the team isn’t addressing tech debt & it’s impacting their ability to deliver it’s on the EL*
 
 
 ### Responsibilities
