@@ -4,6 +4,7 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 
 [Makers path](makers/makers_path.md)
 * [Engineer](makers/engineer.md)
+* [Engineer II](makers/engineer_ii.md)
 * [Senior Engineer](makers/senior_engineer.md)
 * [Staff Engineer](makers/staff_engineer.md)
 * [Senior Staff Engineer](makers/senior_staff_engineer.md)
