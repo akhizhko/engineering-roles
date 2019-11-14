@@ -5,7 +5,7 @@ Engineer II
 
 ### Should have
 
-* Successfully performed the role of an Engineer at Meetup or equivalent role elsewhere
+* Successfully performed the role of an Engineer at Quandoo or equivalent role elsewhere
 * Core language competency in at least one language
 * Experience working on a team in a professional setting
 * Demonstrated ability to collaborate well with a team

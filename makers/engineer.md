@@ -5,7 +5,7 @@ Engineer
 * Learning core language competency in at least one language
 * Experience working on a team or in a group academic setting
 * A thirst for knowledge and continuous learning
-* A connection to Meetup’s mission and values
+* A connection to Quandoo’s mission and values
 
 ### Is expected to
 * Communicate well with all members of the team

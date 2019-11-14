@@ -3,6 +3,8 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 ### Makers
 
 [Makers path](makers/makers_path.md)
+* [Jr Engineer](maker/jr_engineer.md)
+* [Jr Engineer II](maker/jr_engineer_ii.md)
 * [Engineer](makers/engineer.md)
 * [Engineer II](makers/engineer_ii.md)
 * [Senior Engineer](makers/senior_engineer.md)
@@ -14,6 +16,7 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 ### Managers
 
 [Managers path](managers/managers_path.md)
+* [Team Lead] (managers/team_lead.md)
 * [Engineering Manager](managers/engineering_manager.md)
 * [Senior Engineering Manager](managers/senior_engineering_manager.md)
 * [Director, Engineering](managers/director_engineering.md)

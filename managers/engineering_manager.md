@@ -27,7 +27,7 @@ Engineering Manager
 * Recruit for the squad 
    * Source engineers
    * Motivate engineers to speak, do presentations, write blog posts, and contribute to open source projects (and do so oneself!)
-   * Participate in creating interview practice for Meetup engineering
+   * Participate in creating interview practice for Quandoo engineering
    * Update interview loops & training engineers to use them for hiring 
    * Work with recruiting to ensure the loops run smoothly
    * Make the final hiring decision

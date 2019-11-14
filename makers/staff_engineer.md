@@ -23,7 +23,7 @@ Staff Engineer
 * Look for ways to reduce distractions, interruptions, and unplanned work for themselves and others 
 * Challenge their team to demonstrate greater sense of urgency
 * Model bringing solutions to problems (not surfacing problems alone) and teach others on their team how to do the same
-* Be active in the technology community, positively contribute to Meetup’s reputation, and find great candidates to grow the Meetup team
+* Be active in the technology community, positively contribute to Quandoo’s reputation, and find great candidates to grow the Quandoo team
 * Develop and constantly refine technical and team fit assessments (coding exercises, interview questions, etc) for interviews
 * Ensure code/design/architecture reviews happen on teams and that work follows established best practices and standards
 * Coordinate evaluation of tools and frameworks for the engineering team
