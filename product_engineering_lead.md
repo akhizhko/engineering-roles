@@ -16,7 +16,7 @@ Engineering Lead
 
 ### Responsibilities
 #### Goals & planning
-* Work with PM/ED/EM/Designer to create key results for squads
+* Work with PM/ED/EM/Designer to create key results for squad/team
 * Work with PM/Designer to suggest hypotheses & ways to validate them
 * Work with PM/Designer to discuss approach & t shirt size of larger releases/features - look for ways to break into smaller pieces that add value & discuss risks & mitigations
 * Ensure the squad understands how the sprint & the stories in it ladder up into OKRs & the company priorities

@@ -16,7 +16,7 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 ### Managers
 
 [Managers path](managers/managers_path.md)
-* [Team Lead] (managers/team_lead.md)
+* [Engineering Lead](product_engineering_lead.md)
 * [Engineering Manager](managers/engineering_manager.md)
 * [Senior Engineering Manager](managers/senior_engineering_manager.md)
 * [Director, Engineering](managers/director_engineering.md)
@@ -24,4 +24,5 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 
 ### Roles
 
-* [Product Engineering Lead](product_engineering_lead.md)
+* [Scrum Master](scrum_master.md)
+* [Agile Coach](agile_couch.md)
